@@ -1,9 +1,12 @@
-#Intro
+Intro
+===========
 This is Xunwei Ye's personal website. 
 
-#URL
+URL
+======
 https://pages.cs.wisc.edu/~xunwei/XunweiYE_Website/
 
-#Author
+Author
+===
 Xunwei Ye
 
